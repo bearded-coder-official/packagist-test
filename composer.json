@@ -1,0 +1,7 @@
+{
+    "name": "prodevzone/packagist-test",
+    "description": "Packagist Test",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
